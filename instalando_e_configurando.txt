@@ -1,0 +1,1 @@
+Depois de instalar o git no seu computador, você pode inicializar ele via terminal, digitando git init. Então um novo repositório git é configurado. Você deve configurar um nome de usuário e email na primeira utilização.
