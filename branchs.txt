@@ -1,0 +1,1 @@
+Branches são ramificações do código. Cada nova alteração ou inclusão de novos arquivos deve ser feito através de novas branches, pois isso torna mais seguro o código e permite que trabalhemos com outras pessoas na mesma aplicação.
