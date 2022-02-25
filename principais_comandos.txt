@@ -1,0 +1,14 @@
+Principais comandos são:
+git init
+git status
+git add <file>
+git commit -m 'message'
+git remote add origin <link>
+git push origin <branch>
+git pull origin master
+git branch <newbranch>
+git checkout -b <newbranch>
+git merge
+git branch -D <branch>
+git log
+git diff
