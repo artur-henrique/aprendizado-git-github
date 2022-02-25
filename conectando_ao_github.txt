@@ -1,0 +1,1 @@
+Para vincular o git ao github, vc deve usar o comando git remote add origin <origin> e passar então da origem remota no comando.
